@@ -1,2 +1,3 @@
 .env
 rag-based-enterprise-knowledge-assistant-venv
+data/chromadb
