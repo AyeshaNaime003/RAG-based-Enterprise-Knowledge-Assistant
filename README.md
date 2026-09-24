@@ -26,6 +26,15 @@
 * [ ] Handle follow-up questions using conversation context
 * [ ] Test multi-turn conversations
 
+## Phase 3 - Model Evaluation
+* [ ] Evaluate retrieval quality
+* [ ] Evaluate answer correctness
+* [ ] Test questions with no answer in the documents
+* [ ] Test irrelevant/ambiguous questions
+* [ ] Experiment with chunk size and overlap
+* [ ] Experiment with retrieval `k`
+* [ ] Document evaluation results
+
 ## Phase 3 — Application Structure
 
 * [ ] Move notebook logic into Python modules
@@ -54,13 +63,7 @@
 * [ ] Create test questions from the source document
 * [ ] Add unit tests
 * [ ] Add API/integration tests
-* [ ] Evaluate retrieval quality
-* [ ] Evaluate answer correctness
-* [ ] Test questions with no answer in the documents
-* [ ] Test irrelevant/ambiguous questions
-* [ ] Experiment with chunk size and overlap
-* [ ] Experiment with retrieval `k`
-* [ ] Document evaluation results
+
 
 ## Phase 6 — Production-Oriented Improvements
 
