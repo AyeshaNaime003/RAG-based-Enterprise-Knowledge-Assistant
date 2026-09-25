@@ -33,7 +33,7 @@
 * [ ] Test irrelevant/ambiguous questions
 * [ ] Experiment with chunk size and overlap
 * [ ] Experiment with retrieval `k`
-* [ ] Document evaluation results
+* [ ] Document evaluation results 
 
 ## Phase 3 — Application Structure
 
